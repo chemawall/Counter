@@ -10,3 +10,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.tamano{
+    font-size: 160px;
+    text-align: center;
+    color: yellow;
+    background-color: black;
+}
